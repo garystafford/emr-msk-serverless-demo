@@ -87,7 +87,7 @@ def write_to_kafka(spark, df_sales):
 
         df_message.show(1)
 
-        time.sleep(MESSAGE_DELAY)  # 2000 messages * 0.5 seconds  / 60 = ~17 minute runtime
+        time.sleep(MESSAGE_DELAY)
 
 
 if __name__ == "__main__":
