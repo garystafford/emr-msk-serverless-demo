@@ -1,6 +1,8 @@
 # Amazon EMR Serverless/MSK Serverless Demo
 
-Source code for the upcoming blog post, "Serverless Analytics on AWS: Getting Started with Amazon EMR Serverless and MSK Serverless". Using the newly released Amazon EMR Serverless and Amazon MSK Serverless for batch and streaming analytics with Apache Spark and Apache Kafka.
+Source code for the upcoming blog post, "Serverless Analytics on AWS: Getting Started with Amazon EMR Serverless and MSK
+Serverless". Using the newly released Amazon EMR Serverless and Amazon MSK Serverless for batch and streaming analytics
+with Apache Spark and Apache Kafka.
 
 ## Spark Jobs
 
@@ -10,6 +12,23 @@ Source code for the upcoming blog post, "Serverless Analytics on AWS: Getting St
 * `04_stream_sales_to_kafka.py`: Streaming writes to Kafka topic
 * `05_streaming_kafka.py`: Streaming reads from Kafka topic, aggregations over sliding event-time window to console
 
+## Spark Job JAR Dependencies
+
+Upload to S3 in advance.
+
+```shell
+# dependencies
+wget https://github.com/aws/aws-msk-iam-auth/releases/download/v1.1.4/aws-msk-iam-auth-1.1.4-all.jar
+wget https://repo1.maven.org/maven2/org/apache/commons/commons-pool2/2.11.1/commons-pool2-2.11.1.jar
+wget https://repo1.maven.org/maven2/org/apache/kafka/kafka-clients/2.8.1/kafka-clients-2.8.1.jar
+wget https://repo1.maven.org/maven2/org/apache/spark/spark-sql-kafka-0-10_2.12/3.2.1/spark-sql-kafka-0-10_2.12-3.2.1.jar
+wget https://repo1.maven.org/maven2/org/apache/spark/spark-streaming_2.12/3.2.1/spark-streaming_2.12-3.2.1.jar
+wget https://repo1.maven.org/maven2/org/apache/spark/spark-tags_2.12/3.2.1/spark-tags_2.12-3.2.1.jar
+wget https://repo1.maven.org/maven2/org/apache/spark/spark-token-provider-kafka-0-10_2.12/3.2.1/spark-token-provider-kafka-0-10_2.12-3.2.1.jar
+
+# optional dependencies for avro-format messages
+wget https://repo1.maven.org/maven2/org/apache/spark/spark-avro_2.12/3.2.1/spark-avro_2.12-3.2.1.jar
+```
 
 ## Create Kafka Topics and Messages from Client EC2 Instance
 
@@ -93,4 +112,5 @@ aws emr-serverless start-job-run \
 ```
 
 ---
-The contents of this repository represent my viewpoints and not of my past or current employers, including Amazon Web Services (AWS). All third-party libraries, modules, plugins, and SDKs are the property of their respective owners.
+The contents of this repository represent my viewpoints and not of my past or current employers, including Amazon Web
+Services (AWS). All third-party libraries, modules, plugins, and SDKs are the property of their respective owners.
