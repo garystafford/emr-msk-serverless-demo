@@ -1,0 +1,34 @@
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Effect": "Allow",
+            "Action": [
+                "kafka-cluster:Connect"
+            ],
+            "Resource": "arn:aws:kafka:us-east-1:676164205626:cluster/serverless-analytics-demo/b341b38b-9823-44a6-8332-c193c72df67e-s1"
+        },
+        {
+            "Effect": "Allow",
+            "Action": [
+                "kafka-cluster:DescribeTopic",
+                "kafka-cluster:CreateTopic",
+                "kafka-cluster:WriteData",
+                "kafka-cluster:ReadData"
+            ],
+            "Resource": [
+                "arn:aws:kafka:us-east-1:676164205626:topic/serverless-analytics-demo/b341b38b-9823-44a6-8332-c193c72df67e-s1/topicA",
+                "arn:aws:kafka:us-east-1:676164205626:topic/serverless-analytics-demo/b341b38b-9823-44a6-8332-c193c72df67e-s1/topicB",
+                "arn:aws:kafka:us-east-1:676164205626:topic/serverless-analytics-demo/b341b38b-9823-44a6-8332-c193c72df67e-s1/topicB"
+            ]
+        },
+        {
+            "Effect": "Allow",
+            "Action": [
+                "kafka-cluster:AlterGroup",
+                "kafka-cluster:DescribeGroup"
+            ],
+            "Resource": "arn:aws:kafka:us-east-1:676164205626:group/serverless-analytics-demo/b341b38b-9823-44a6-8332-c193c72df67e-s1/*"
+        }
+    ]
+}

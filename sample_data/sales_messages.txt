@@ -1,0 +1,250 @@
+{"payment_id":16940,"customer_id":130,"amount":5.99,"payment_date":"2021-05-08 21:21:56.996577 +00:00","city":"guas Lindas de Gois","district":"Gois","country":"Brazil"}
+{"payment_id":16406,"customer_id":459,"amount":5.99,"payment_date":"2021-05-08 21:22:59.996577 +00:00","city":"Qomsheh","district":"Esfahan","country":"Iran"}
+{"payment_id":16315,"customer_id":408,"amount":6.99,"payment_date":"2021-05-08 21:32:05.996577 +00:00","city":"Jaffna","district":"Northern","country":"Sri Lanka"}
+{"payment_id":16185,"customer_id":333,"amount":7.99,"payment_date":"2021-05-08 21:33:07.996577 +00:00","city":"Baku","district":"Baki","country":"Azerbaijan"}
+{"payment_id":17097,"customer_id":222,"amount":9.99,"payment_date":"2021-05-08 21:33:47.996577 +00:00","city":"Jaroslavl","district":"Jaroslavl","country":"Russian Federation"}
+{"payment_id":16579,"customer_id":549,"amount":3.99,"payment_date":"2021-05-08 21:36:33.996577 +00:00","city":"Santiago de Compostela","district":"Galicia","country":"Spain"}
+{"payment_id":16050,"customer_id":269,"amount":4.99,"payment_date":"2021-05-08 21:40:19.996577 +00:00","city":"Salinas","district":"California","country":"United States"}
+{"payment_id":17126,"customer_id":239,"amount":7.99,"payment_date":"2021-05-08 22:00:12.996577 +00:00","city":"Ciomas","district":"West Java","country":"Indonesia"}
+{"payment_id":16933,"customer_id":126,"amount":7.99,"payment_date":"2021-05-08 22:29:06.996577 +00:00","city":"Po","district":"So Paulo","country":"Brazil"}
+{"payment_id":16297,"customer_id":399,"amount":8.99,"payment_date":"2021-05-08 22:30:47.996577 +00:00","city":"Okara","district":"Punjab","country":"Pakistan"}
+{"payment_id":16958,"customer_id":142,"amount":11.99,"payment_date":"2021-05-08 22:37:28.996577 +00:00","city":"Dundee","district":"Scotland","country":"United Kingdom"}
+{"payment_id":17193,"customer_id":261,"amount":7.99,"payment_date":"2021-05-08 22:47:53.996577 +00:00","city":"Tuguegarao","district":"Cagayan Valley","country":"Philippines"}
+{"payment_id":16186,"customer_id":334,"amount":9.99,"payment_date":"2021-05-08 22:51:21.996577 +00:00","city":"Sumqayit","district":"Sumqayit","country":"Azerbaijan"}
+{"payment_id":16384,"customer_id":446,"amount":3.99,"payment_date":"2021-05-08 22:59:41.996577 +00:00","city":"Uluberia","district":"West Bengali","country":"India"}
+{"payment_id":16161,"customer_id":319,"amount":12.99,"payment_date":"2021-05-08 23:07:48.996577 +00:00","city":"San Felipe del Progreso","district":"Mxico","country":"Mexico"}
+{"payment_id":16156,"customer_id":316,"amount":7.99,"payment_date":"2021-05-08 23:11:37.996577 +00:00","city":"Miraj","district":"Maharashtra","country":"India"}
+{"payment_id":16623,"customer_id":575,"amount":5.99,"payment_date":"2021-05-08 23:35:02.996577 +00:00","city":"Cuernavaca","district":"Morelos","country":"Mexico"}
+{"payment_id":16716,"customer_id":19,"amount":3.99,"payment_date":"2021-05-08 23:39:13.996577 +00:00","city":"Kimberley","district":"Northern Cape","country":"South Africa"}
+{"payment_id":16404,"customer_id":456,"amount":7.99,"payment_date":"2021-05-08 23:45:50.996577 +00:00","city":"Ziguinchor","district":"Ziguinchor","country":"Senegal"}
+{"payment_id":17039,"customer_id":185,"amount":5.99,"payment_date":"2021-05-09 00:17:07.996577 +00:00","city":"Shahr-e Kord","district":"Chaharmahal va Bakht","country":"Iran"}
+{"payment_id":16280,"customer_id":388,"amount":7.99,"payment_date":"2021-05-09 00:28:12.996577 +00:00","city":"Cavite","district":"Southern Tagalog","country":"Philippines"}
+{"payment_id":16509,"customer_id":509,"amount":7.99,"payment_date":"2021-05-09 00:47:49.996577 +00:00","city":"Chapra","district":"Bihar","country":"India"}
+{"payment_id":16368,"customer_id":438,"amount":7.99,"payment_date":"2021-05-09 01:08:47.996577 +00:00","city":"Kitwe","district":"Copperbelt","country":"Zambia"}
+{"payment_id":16204,"customer_id":350,"amount":7.99,"payment_date":"2021-05-09 01:21:28.996577 +00:00","city":"Teboksary","district":"Tuvassia","country":"Russian Federation"}
+{"payment_id":16752,"customer_id":37,"amount":3.99,"payment_date":"2021-05-09 01:49:46.996577 +00:00","city":"Nanyang","district":"Henan","country":"China"}
+{"payment_id":16241,"customer_id":371,"amount":6.99,"payment_date":"2021-05-09 02:05:16.996577 +00:00","city":"Cabuyao","district":"Southern Tagalog","country":"Philippines"}
+{"payment_id":16117,"customer_id":301,"amount":7.99,"payment_date":"2021-05-09 02:10:16.996577 +00:00","city":"Kaliningrad","district":"Kaliningrad","country":"Russian Federation"}
+{"payment_id":17114,"customer_id":232,"amount":7.99,"payment_date":"2021-05-09 02:11:03.996577 +00:00","city":"Zaria","district":"Kaduna","country":"Nigeria"}
+{"payment_id":16758,"customer_id":44,"amount":3.99,"payment_date":"2021-05-09 02:15:38.996577 +00:00","city":"Lipetsk","district":"Lipetsk","country":"Russian Federation"}
+{"payment_id":16351,"customer_id":430,"amount":5.99,"payment_date":"2021-05-09 02:29:58.996577 +00:00","city":"Dzerzinsk","district":"Nizni Novgorod","country":"Russian Federation"}
+{"payment_id":16237,"customer_id":369,"amount":7.99,"payment_date":"2021-05-09 02:33:43.996577 +00:00","city":"Jurez","district":"Chihuahua","country":"Mexico"}
+{"payment_id":17109,"customer_id":230,"amount":3.99,"payment_date":"2021-05-09 02:34:47.996577 +00:00","city":"Botosani","district":"Botosani","country":"Romania"}
+{"payment_id":16059,"customer_id":272,"amount":3.99,"payment_date":"2021-05-09 02:47:17.996577 +00:00","city":"Yantai","district":"Shandong","country":"China"}
+{"payment_id":16662,"customer_id":597,"amount":5.99,"payment_date":"2021-05-09 02:47:54.996577 +00:00","city":"Sullana","district":"Piura","country":"Peru"}
+{"payment_id":16455,"customer_id":484,"amount":7.99,"payment_date":"2021-05-09 02:53:02.996577 +00:00","city":"Yinchuan","district":"Ningxia","country":"China"}
+{"payment_id":16861,"customer_id":88,"amount":5.99,"payment_date":"2021-05-09 03:04:52.996577 +00:00","city":"Cheju","district":"Cheju","country":"South Korea"}
+{"payment_id":16550,"customer_id":535,"amount":3.99,"payment_date":"2021-05-09 03:12:57.996577 +00:00","city":"NDjamna","district":"Chari-Baguirmi","country":"Chad"}
+{"payment_id":16120,"customer_id":302,"amount":7.99,"payment_date":"2021-05-09 03:16:10.996577 +00:00","city":"Tiefa","district":"Liaoning","country":"China"}
+{"payment_id":16670,"customer_id":207,"amount":3.99,"payment_date":"2021-05-09 03:20:12.996577 +00:00","city":"Nuuk","district":"Kitaa","country":"Greenland"}
+{"payment_id":16325,"customer_id":413,"amount":7.99,"payment_date":"2021-05-09 03:37:30.996577 +00:00","city":"Berhampore (Baharampur)","district":"West Bengali","country":"India"}
+{"payment_id":17021,"customer_id":174,"amount":8.99,"payment_date":"2021-05-09 03:40:55.996577 +00:00","city":"Ocumare del Tuy","district":"Miranda","country":"Venezuela"}
+{"payment_id":16527,"customer_id":523,"amount":7.99,"payment_date":"2021-05-09 03:53:24.996577 +00:00","city":"Vinh","district":"Nghe An","country":"Vietnam"}
+{"payment_id":16544,"customer_id":532,"amount":5.99,"payment_date":"2021-05-09 04:07:51.996577 +00:00","city":"Cam Ranh","district":"Khanh Hoa","country":"Vietnam"}
+{"payment_id":16671,"customer_id":207,"amount":3.99,"payment_date":"2021-05-09 04:21:49.996577 +00:00","city":"Nuuk","district":"Kitaa","country":"Greenland"}
+{"payment_id":16362,"customer_id":436,"amount":10.99,"payment_date":"2021-05-09 04:28:05.996577 +00:00","city":"Vancouver","district":"British Colombia","country":"Canada"}
+{"payment_id":16688,"customer_id":7,"amount":8.99,"payment_date":"2021-05-09 04:32:34.996577 +00:00","city":"Kragujevac","district":"Central Serbia","country":"Yugoslavia"}
+{"payment_id":16748,"customer_id":35,"amount":6.99,"payment_date":"2021-05-09 04:33:46.996577 +00:00","city":"Toulouse","district":"Midi-Pyrnes","country":"France"}
+{"payment_id":16081,"customer_id":282,"amount":4.99,"payment_date":"2021-05-09 04:49:12.996577 +00:00","city":"Ponce","district":"Ponce","country":"Puerto Rico"}
+{"payment_id":16476,"customer_id":498,"amount":5.99,"payment_date":"2021-05-09 05:08:01.996577 +00:00","city":"Salala","district":"Zufar","country":"Oman"}
+{"payment_id":16713,"customer_id":18,"amount":5.99,"payment_date":"2021-05-09 05:13:19.996577 +00:00","city":"Kaduna","district":"Kaduna","country":"Nigeria"}
+{"payment_id":17181,"customer_id":256,"amount":7.99,"payment_date":"2021-05-09 05:17:36.996577 +00:00","city":"Monywa","district":"Sagaing","country":"Myanmar"}
+{"payment_id":16505,"customer_id":507,"amount":3.99,"payment_date":"2021-05-09 05:19:55.996577 +00:00","city":"Eskisehir","district":"Eskisehir","country":"Turkey"}
+{"payment_id":16612,"customer_id":569,"amount":7.99,"payment_date":"2021-05-09 05:47:42.996577 +00:00","city":"Leshan","district":"Sichuan","country":"China"}
+{"payment_id":16096,"customer_id":291,"amount":7.99,"payment_date":"2021-05-09 05:51:51.996577 +00:00","city":"Roanoke","district":"Virginia","country":"United States"}
+{"payment_id":16942,"customer_id":131,"amount":5.99,"payment_date":"2021-05-09 06:54:39.996577 +00:00","city":"Mukateve","district":"Taka-Karpatia","country":"Ukraine"}
+{"payment_id":16514,"customer_id":511,"amount":5.99,"payment_date":"2021-05-09 06:56:37.996577 +00:00","city":"Suihua","district":"Heilongjiang","country":"China"}
+{"payment_id":16685,"customer_id":6,"amount":7.99,"payment_date":"2021-05-09 07:11:58.996577 +00:00","city":"Laredo","district":"Texas","country":"United States"}
+{"payment_id":16169,"customer_id":323,"amount":7.99,"payment_date":"2021-05-09 07:21:40.996577 +00:00","city":"Cuautla","district":"Morelos","country":"Mexico"}
+{"payment_id":16316,"customer_id":408,"amount":8.99,"payment_date":"2021-05-09 07:25:08.996577 +00:00","city":"Jaffna","district":"Northern","country":"Sri Lanka"}
+{"payment_id":16430,"customer_id":470,"amount":5.99,"payment_date":"2021-05-09 07:26:51.996577 +00:00","city":"Hodeida","district":"Hodeida","country":"Yemen"}
+{"payment_id":17163,"customer_id":250,"amount":8.99,"payment_date":"2021-05-09 07:30:23.996577 +00:00","city":"Oyo","district":"Oyo & Osun","country":"Nigeria"}
+{"payment_id":16336,"customer_id":419,"amount":5.99,"payment_date":"2021-05-09 07:47:18.996577 +00:00","city":"Katihar","district":"Bihar","country":"India"}
+{"payment_id":16267,"customer_id":383,"amount":3.99,"payment_date":"2021-05-09 07:47:42.996577 +00:00","city":"Namibe","district":"Namibe","country":"Angola"}
+{"payment_id":16233,"customer_id":368,"amount":8.99,"payment_date":"2021-05-09 07:49:55.996577 +00:00","city":"Najafabad","district":"Esfahan","country":"Iran"}
+{"payment_id":16199,"customer_id":346,"amount":7.99,"payment_date":"2021-05-09 08:00:29.996577 +00:00","city":"Maikop","district":"Adygea","country":"Russian Federation"}
+{"payment_id":16858,"customer_id":86,"amount":4.99,"payment_date":"2021-05-09 08:03:38.996577 +00:00","city":"Songkhla","district":"Songkhla","country":"Thailand"}
+{"payment_id":16919,"customer_id":119,"amount":3.99,"payment_date":"2021-05-09 08:09:27.996577 +00:00","city":"Shubra al-Khayma","district":"al-Qalyubiya","country":"Egypt"}
+{"payment_id":16922,"customer_id":120,"amount":10.99,"payment_date":"2021-05-09 08:15:57.996577 +00:00","city":"Dos Quebradas","district":"Risaralda","country":"Colombia"}
+{"payment_id":16128,"customer_id":305,"amount":5.99,"payment_date":"2021-05-09 08:38:40.996577 +00:00","city":"Arlington","district":"Texas","country":"United States"}
+{"payment_id":16832,"customer_id":73,"amount":5.99,"payment_date":"2021-05-09 08:43:49.996577 +00:00","city":"Chiayi","district":"Chiayi","country":"Taiwan"}
+{"payment_id":16876,"customer_id":100,"amount":3.99,"payment_date":"2021-05-09 08:55:05.996577 +00:00","city":"Jelets","district":"Lipetsk","country":"Russian Federation"}
+{"payment_id":16770,"customer_id":48,"amount":3.99,"payment_date":"2021-05-09 09:20:39.996577 +00:00","city":"Niznekamsk","district":"Tatarstan","country":"Russian Federation"}
+{"payment_id":16285,"customer_id":391,"amount":7.99,"payment_date":"2021-05-09 09:28:33.996577 +00:00","city":"Izumisano","district":"Osaka","country":"Japan"}
+{"payment_id":17200,"customer_id":265,"amount":3.99,"payment_date":"2021-05-09 09:38:14.996577 +00:00","city":"Olomouc","district":"Severn Morava","country":"Czech Republic"}
+{"payment_id":16511,"customer_id":510,"amount":11.99,"payment_date":"2021-05-09 09:42:00.996577 +00:00","city":"Kamyin","district":"Volgograd","country":"Russian Federation"}
+{"payment_id":16677,"customer_id":1,"amount":5.99,"payment_date":"2021-05-09 09:59:03.996577 +00:00","city":"Sasebo","district":"Nagasaki","country":"Japan"}
+{"payment_id":16395,"customer_id":451,"amount":3.99,"payment_date":"2021-05-09 10:00:25.996577 +00:00","city":"El Fuerte","district":"Sinaloa","country":"Mexico"}
+{"payment_id":16951,"customer_id":135,"amount":8.99,"payment_date":"2021-05-09 10:03:44.996577 +00:00","city":"Pune","district":"Maharashtra","country":"India"}
+{"payment_id":17143,"customer_id":245,"amount":7.99,"payment_date":"2021-05-09 10:39:33.996577 +00:00","city":"Uijongbu","district":"Kyonggi","country":"South Korea"}
+{"payment_id":16152,"customer_id":314,"amount":8.99,"payment_date":"2021-05-09 10:40:33.996577 +00:00","city":"Sorocaba","district":"So Paulo","country":"Brazil"}
+{"payment_id":16087,"customer_id":286,"amount":9.99,"payment_date":"2021-05-09 10:43:45.996577 +00:00","city":"Effon-Alaiye","district":"Oyo & Osun","country":"Nigeria"}
+{"payment_id":16344,"customer_id":427,"amount":9.99,"payment_date":"2021-05-09 10:46:12.996577 +00:00","city":"Guaruj","district":"So Paulo","country":"Brazil"}
+{"payment_id":16943,"customer_id":131,"amount":7.99,"payment_date":"2021-05-09 10:58:41.996577 +00:00","city":"Mukateve","district":"Taka-Karpatia","country":"Ukraine"}
+{"payment_id":16468,"customer_id":492,"amount":5.99,"payment_date":"2021-05-09 11:04:56.996577 +00:00","city":"Kanchrapara","district":"West Bengali","country":"India"}
+{"payment_id":16327,"customer_id":414,"amount":7.99,"payment_date":"2021-05-09 11:34:00.996577 +00:00","city":"Allende","district":"Guanajuato","country":"Mexico"}
+{"payment_id":17201,"customer_id":266,"amount":4.99,"payment_date":"2021-05-09 12:04:38.996577 +00:00","city":"Salzburg","district":"Salzburg","country":"Austria"}
+{"payment_id":16181,"customer_id":331,"amount":3.99,"payment_date":"2021-05-09 12:21:09.996577 +00:00","city":"Santa F","district":"Santa F","country":"Argentina"}
+{"payment_id":16786,"customer_id":53,"amount":6.99,"payment_date":"2021-05-09 12:42:20.996577 +00:00","city":"Nagareyama","district":"Chiba","country":"Japan"}
+{"payment_id":16479,"customer_id":499,"amount":5.99,"payment_date":"2021-05-09 12:56:55.996577 +00:00","city":"Brindisi","district":"Apulia","country":"Italy"}
+{"payment_id":16736,"customer_id":25,"amount":10.99,"payment_date":"2021-05-09 12:59:51.996577 +00:00","city":"Shikarpur","district":"Sind","country":"Pakistan"}
+{"payment_id":17203,"customer_id":267,"amount":9.99,"payment_date":"2021-05-09 13:25:48.996577 +00:00","city":"Lengshuijiang","district":"Hunan","country":"China"}
+{"payment_id":16121,"customer_id":302,"amount":8.99,"payment_date":"2021-05-09 14:07:12.996577 +00:00","city":"Tiefa","district":"Liaoning","country":"China"}
+{"payment_id":16091,"customer_id":288,"amount":6.99,"payment_date":"2021-05-09 14:22:42.996577 +00:00","city":"Valle de Santiago","district":"Guanajuato","country":"Mexico"}
+{"payment_id":17059,"customer_id":197,"amount":5.99,"payment_date":"2021-05-09 14:32:08.996577 +00:00","city":"Changzhou","district":"Jiangsu","country":"China"}
+{"payment_id":16300,"customer_id":400,"amount":6.99,"payment_date":"2021-05-09 14:41:18.996577 +00:00","city":"Dallas","district":"Texas","country":"United States"}
+{"payment_id":16773,"customer_id":49,"amount":4.99,"payment_date":"2021-05-09 15:00:45.996577 +00:00","city":"Jedda","district":"Mekka","country":"Saudi Arabia"}
+{"payment_id":17198,"customer_id":263,"amount":7.99,"payment_date":"2021-05-09 15:02:50.996577 +00:00","city":"Mandaluyong","district":"National Capital Reg","country":"Philippines"}
+{"payment_id":16051,"customer_id":269,"amount":3.99,"payment_date":"2021-05-09 15:16:50.996577 +00:00","city":"Salinas","district":"California","country":"United States"}
+{"payment_id":16759,"customer_id":44,"amount":7.99,"payment_date":"2021-05-09 15:18:46.996577 +00:00","city":"Lipetsk","district":"Lipetsk","country":"Russian Federation"}
+{"payment_id":16676,"customer_id":208,"amount":7.99,"payment_date":"2021-05-09 15:18:54.996577 +00:00","city":"Balurghat","district":"West Bengali","country":"India"}
+{"payment_id":16420,"customer_id":468,"amount":9.99,"payment_date":"2021-05-09 15:45:30.996577 +00:00","city":"Bijapur","district":"Karnataka","country":"India"}
+{"payment_id":16193,"customer_id":343,"amount":6.99,"payment_date":"2021-05-09 15:50:36.996577 +00:00","city":"Mexicali","district":"Baja California","country":"Mexico"}
+{"payment_id":16269,"customer_id":384,"amount":7.99,"payment_date":"2021-05-09 15:59:08.996577 +00:00","city":"Huaian","district":"Jiangsu","country":"China"}
+{"payment_id":16138,"customer_id":310,"amount":3.99,"payment_date":"2021-05-09 16:14:59.996577 +00:00","city":"Ibirit","district":"Minas Gerais","country":"Brazil"}
+{"payment_id":16893,"customer_id":108,"amount":7.99,"payment_date":"2021-05-09 16:22:38.996577 +00:00","city":"Huixquilucan","district":"Mxico","country":"Mexico"}
+{"payment_id":17055,"customer_id":196,"amount":14.99,"payment_date":"2021-05-09 16:46:45.996577 +00:00","city":"Mannheim","district":"Baden-Wrttemberg","country":"Germany"}
+{"payment_id":16159,"customer_id":317,"amount":9.99,"payment_date":"2021-05-09 16:56:35.996577 +00:00","city":"Trshavn","district":"Streymoyar","country":"Faroe Islands"}
+{"payment_id":17137,"customer_id":242,"amount":5.99,"payment_date":"2021-05-09 16:58:31.996577 +00:00","city":"Qinhuangdao","district":"Hebei","country":"China"}
+{"payment_id":16489,"customer_id":503,"amount":4.99,"payment_date":"2021-05-09 17:08:46.996577 +00:00","city":"Ueda","district":"Nagano","country":"Japan"}
+{"payment_id":16717,"customer_id":19,"amount":12.99,"payment_date":"2021-05-09 17:12:15.996577 +00:00","city":"Kimberley","district":"Northern Cape","country":"South Africa"}
+{"payment_id":17105,"customer_id":227,"amount":7.99,"payment_date":"2021-05-09 17:13:45.996577 +00:00","city":"Saarbrcken","district":"Saarland","country":"Germany"}
+{"payment_id":16480,"customer_id":500,"amount":11.99,"payment_date":"2021-05-09 17:25:50.996577 +00:00","city":"Madiun","district":"East Java","country":"Indonesia"}
+{"payment_id":16868,"customer_id":93,"amount":5.99,"payment_date":"2021-05-09 17:36:06.996577 +00:00","city":"Zalantun","district":"Inner Mongolia","country":"China"}
+{"payment_id":16498,"customer_id":506,"amount":6.99,"payment_date":"2021-05-09 17:41:08.996577 +00:00","city":"Pontianak","district":"Kalimantan Barat","country":"Indonesia"}
+{"payment_id":16402,"customer_id":455,"amount":3.99,"payment_date":"2021-05-09 17:41:51.996577 +00:00","city":"El Alto","district":"La Paz","country":"Bolivia"}
+{"payment_id":16714,"customer_id":18,"amount":7.99,"payment_date":"2021-05-09 17:56:17.996577 +00:00","city":"Kaduna","district":"Kaduna","country":"Nigeria"}
+{"payment_id":16689,"customer_id":7,"amount":3.99,"payment_date":"2021-05-09 17:59:12.996577 +00:00","city":"Kragujevac","district":"Central Serbia","country":"Yugoslavia"}
+{"payment_id":16529,"customer_id":524,"amount":3.99,"payment_date":"2021-05-09 17:59:44.996577 +00:00","city":"Purwakarta","district":"West Java","country":"Indonesia"}
+{"payment_id":16782,"customer_id":51,"amount":7.99,"payment_date":"2021-05-09 18:05:28.996577 +00:00","city":"Fontana","district":"California","country":"United States"}
+{"payment_id":16228,"customer_id":365,"amount":8.99,"payment_date":"2021-05-09 18:06:13.996577 +00:00","city":"Okinawa","district":"Okinawa","country":"Japan"}
+{"payment_id":16311,"customer_id":405,"amount":5.99,"payment_date":"2021-05-09 18:09:55.996577 +00:00","city":"Tandil","district":"Buenos Aires","country":"Argentina"}
+{"payment_id":16063,"customer_id":273,"amount":6.99,"payment_date":"2021-05-09 18:14:47.996577 +00:00","city":"Salamanca","district":"Guanajuato","country":"Mexico"}
+{"payment_id":16756,"customer_id":43,"amount":7.99,"payment_date":"2021-05-09 18:55:08.996577 +00:00","city":"Faaa","district":"Tahiti","country":"French Polynesia"}
+{"payment_id":17149,"customer_id":246,"amount":9.99,"payment_date":"2021-05-09 19:14:37.996577 +00:00","city":"Maring","district":"Paran","country":"Brazil"}
+{"payment_id":16234,"customer_id":368,"amount":8.99,"payment_date":"2021-05-09 19:17:16.996577 +00:00","city":"Najafabad","district":"Esfahan","country":"Iran"}
+{"payment_id":16371,"customer_id":439,"amount":5.99,"payment_date":"2021-05-09 19:36:25.996577 +00:00","city":"Bergamo","district":"Lombardia","country":"Italy"}
+{"payment_id":16871,"customer_id":94,"amount":5.99,"payment_date":"2021-05-09 19:39:06.996577 +00:00","city":"Bislig","district":"Caraga","country":"Philippines"}
+{"payment_id":16754,"customer_id":40,"amount":7.99,"payment_date":"2021-05-09 19:48:19.996577 +00:00","city":"Nador","district":"Oriental","country":"Morocco"}
+{"payment_id":16731,"customer_id":23,"amount":11.99,"payment_date":"2021-05-09 19:48:29.996577 +00:00","city":"Liepaja","district":"Liepaja","country":"Latvia"}
+{"payment_id":16798,"customer_id":56,"amount":6.99,"payment_date":"2021-05-09 19:50:22.996577 +00:00","city":"Papeete","district":"Tahiti","country":"French Polynesia"}
+{"payment_id":16173,"customer_id":325,"amount":8.99,"payment_date":"2021-05-09 20:11:12.996577 +00:00","city":"Braslia","district":"Distrito Federal","country":"Brazil"}
+{"payment_id":16445,"customer_id":479,"amount":6.99,"payment_date":"2021-05-09 20:15:20.996577 +00:00","city":"Akron","district":"Ohio","country":"United States"}
+{"payment_id":17122,"customer_id":237,"amount":3.99,"payment_date":"2021-05-09 20:16:56.996577 +00:00","city":"Naju","district":"Chollanam","country":"South Korea"}
+{"payment_id":17098,"customer_id":222,"amount":7.99,"payment_date":"2021-05-09 20:17:07.996577 +00:00","city":"Jaroslavl","district":"Jaroslavl","country":"Russian Federation"}
+{"payment_id":16125,"customer_id":304,"amount":13.99,"payment_date":"2021-05-09 20:27:24.996577 +00:00","city":"Callao","district":"Callao","country":"Peru"}
+{"payment_id":16493,"customer_id":504,"amount":8.99,"payment_date":"2021-05-09 20:30:56.996577 +00:00","city":"Joliet","district":"Illinois","country":"United States"}
+{"payment_id":16598,"customer_id":560,"amount":5.99,"payment_date":"2021-05-09 20:53:44.996577 +00:00","city":"Avellaneda","district":"Buenos Aires","country":"Argentina"}
+{"payment_id":16639,"customer_id":586,"amount":7.99,"payment_date":"2021-05-09 21:16:48.996577 +00:00","city":"Tsaotun","district":"Nantou","country":"Taiwan"}
+{"payment_id":17186,"customer_id":257,"amount":5.99,"payment_date":"2021-05-09 21:28:47.996577 +00:00","city":"Beira","district":"Sofala","country":"Mozambique"}
+{"payment_id":16209,"customer_id":354,"amount":3.99,"payment_date":"2021-05-09 22:02:48.996577 +00:00","city":"Santo Andr","district":"So Paulo","country":"Brazil"}
+{"payment_id":16862,"customer_id":89,"amount":5.99,"payment_date":"2021-05-09 22:03:19.996577 +00:00","city":"La Plata","district":"Buenos Aires","country":"Argentina"}
+{"payment_id":16432,"customer_id":472,"amount":3.99,"payment_date":"2021-05-09 22:12:13.996577 +00:00","city":"Nam Dinh","district":"Nam Ha","country":"Vietnam"}
+{"payment_id":16109,"customer_id":297,"amount":3.99,"payment_date":"2021-05-09 22:14:18.996577 +00:00","city":"Ahmadnagar","district":"Maharashtra","country":"India"}
+{"payment_id":16214,"customer_id":357,"amount":5.99,"payment_date":"2021-05-09 22:18:22.996577 +00:00","city":"Bratislava","district":"Bratislava","country":"Slovakia"}
+{"payment_id":16848,"customer_id":82,"amount":5.99,"payment_date":"2021-05-09 22:27:29.996577 +00:00","city":"Simferopol","district":"Krim","country":"Ukraine"}
+{"payment_id":16357,"customer_id":433,"amount":11.99,"payment_date":"2021-05-09 22:35:37.996577 +00:00","city":"Naala-Porto","district":"Nampula","country":"Mozambique"}
+{"payment_id":16065,"customer_id":274,"amount":5.99,"payment_date":"2021-05-09 22:46:16.996577 +00:00","city":"Karnal","district":"Haryana","country":"India"}
+{"payment_id":16959,"customer_id":142,"amount":3.99,"payment_date":"2021-05-09 22:53:49.996577 +00:00","city":"Dundee","district":"Scotland","country":"United Kingdom"}
+{"payment_id":16162,"customer_id":319,"amount":6.99,"payment_date":"2021-05-09 22:56:31.996577 +00:00","city":"San Felipe del Progreso","district":"Mxico","country":"Mexico"}
+{"payment_id":16346,"customer_id":429,"amount":8.99,"payment_date":"2021-05-09 22:57:05.996577 +00:00","city":"Tsuyama","district":"Okayama","country":"Japan"}
+{"payment_id":16701,"customer_id":14,"amount":3.99,"payment_date":"2021-05-09 23:05:54.996577 +00:00","city":"Citrus Heights","district":"California","country":"United States"}
+{"payment_id":16802,"customer_id":57,"amount":12.99,"payment_date":"2021-05-09 23:09:36.996577 +00:00","city":"Vaduz","district":"Vaduz","country":"Liechtenstein"}
+{"payment_id":16201,"customer_id":348,"amount":3.99,"payment_date":"2021-05-09 23:16:13.996577 +00:00","city":"Hsichuh","district":"Taipei","country":"Taiwan"}
+{"payment_id":17040,"customer_id":185,"amount":3.99,"payment_date":"2021-05-09 23:24:22.996577 +00:00","city":"Shahr-e Kord","district":"Chaharmahal va Bakht","country":"Iran"}
+{"payment_id":16584,"customer_id":551,"amount":10.99,"payment_date":"2021-05-09 23:43:31.996577 +00:00","city":"Alvorada","district":"Rio Grande do Sul","country":"Brazil"}
+{"payment_id":16412,"customer_id":462,"amount":5.99,"payment_date":"2021-05-09 23:47:31.996577 +00:00","city":"Usolje-Sibirskoje","district":"Irkutsk","country":"Russian Federation"}
+{"payment_id":16195,"customer_id":344,"amount":5.99,"payment_date":"2021-05-09 23:53:47.996577 +00:00","city":"Nukualofa","district":"Tongatapu","country":"Tonga"}
+{"payment_id":16210,"customer_id":354,"amount":4.99,"payment_date":"2021-05-09 23:55:37.996577 +00:00","city":"Santo Andr","district":"So Paulo","country":"Brazil"}
+{"payment_id":16496,"customer_id":505,"amount":5.99,"payment_date":"2021-05-10 00:02:54.996577 +00:00","city":"Talavera","district":"Central Luzon","country":"Philippines"}
+{"payment_id":16095,"customer_id":290,"amount":5.99,"payment_date":"2021-05-10 00:14:46.996577 +00:00","city":"Valle de la Pascua","district":"Gurico","country":"Venezuela"}
+{"payment_id":17033,"customer_id":182,"amount":3.99,"payment_date":"2021-05-10 00:20:14.996577 +00:00","city":"Compton","district":"California","country":"United States"}
+{"payment_id":16105,"customer_id":296,"amount":7.99,"payment_date":"2021-05-10 00:30:31.996577 +00:00","city":"Patiala","district":"Punjab","country":"India"}
+{"payment_id":16883,"customer_id":104,"amount":13.99,"payment_date":"2021-05-10 00:54:49.996577 +00:00","city":"Toulon","district":"Provence-Alpes-Cte","country":"France"}
+{"payment_id":16975,"customer_id":151,"amount":7.99,"payment_date":"2021-05-10 00:55:15.996577 +00:00","city":"Laiwu","district":"Shandong","country":"China"}
+{"payment_id":16747,"customer_id":33,"amount":5.99,"payment_date":"2021-05-10 00:57:02.996577 +00:00","city":"Alessandria","district":"Piemonte","country":"Italy"}
+{"payment_id":16167,"customer_id":322,"amount":3.99,"payment_date":"2021-05-10 01:17:37.996577 +00:00","city":"Baha Blanca","district":"Buenos Aires","country":"Argentina"}
+{"payment_id":16304,"customer_id":401,"amount":7.99,"payment_date":"2021-05-10 01:18:57.996577 +00:00","city":"Koriyama","district":"Fukushima","country":"Japan"}
+{"payment_id":16425,"customer_id":469,"amount":3.99,"payment_date":"2021-05-10 01:36:09.996577 +00:00","city":"Ourense (Orense)","district":"Galicia","country":"Spain"}
+{"payment_id":16262,"customer_id":381,"amount":3.99,"payment_date":"2021-05-10 01:37:56.996577 +00:00","city":"South Hill","district":"","country":"Anguilla"}
+{"payment_id":16891,"customer_id":107,"amount":8.99,"payment_date":"2021-05-10 01:39:38.996577 +00:00","city":"Merlo","district":"Buenos Aires","country":"Argentina"}
+{"payment_id":16301,"customer_id":400,"amount":9.99,"payment_date":"2021-05-10 01:42:41.996577 +00:00","city":"Dallas","district":"Texas","country":"United States"}
+{"payment_id":17023,"customer_id":176,"amount":3.99,"payment_date":"2021-05-10 01:46:08.996577 +00:00","city":"Skikda","district":"Skikda","country":"Algeria"}
+{"payment_id":16545,"customer_id":533,"amount":3.99,"payment_date":"2021-05-10 02:10:36.996577 +00:00","city":"Binzhou","district":"Shandong","country":"China"}
+{"payment_id":16589,"customer_id":552,"amount":3.99,"payment_date":"2021-05-10 02:12:36.996577 +00:00","city":"Haining","district":"Zhejiang","country":"China"}
+{"payment_id":16767,"customer_id":47,"amount":6.99,"payment_date":"2021-05-10 02:14:52.996577 +00:00","city":"Juazeiro do Norte","district":"Cear","country":"Brazil"}
+{"payment_id":17164,"customer_id":250,"amount":6.99,"payment_date":"2021-05-10 02:16:05.996577 +00:00","city":"Oyo","district":"Oyo & Osun","country":"Nigeria"}
+{"payment_id":16576,"customer_id":548,"amount":9.99,"payment_date":"2021-05-10 02:42:55.996577 +00:00","city":"Tarlac","district":"Central Luzon","country":"Philippines"}
+{"payment_id":17056,"customer_id":196,"amount":8.99,"payment_date":"2021-05-10 02:50:12.996577 +00:00","city":"Mannheim","district":"Baden-Wrttemberg","country":"Germany"}
+{"payment_id":16718,"customer_id":19,"amount":9.99,"payment_date":"2021-05-10 02:54:32.996577 +00:00","city":"Kimberley","district":"Northern Cape","country":"South Africa"}
+{"payment_id":16835,"customer_id":75,"amount":7.99,"payment_date":"2021-05-10 03:14:49.996577 +00:00","city":"Changhwa","district":"Changhwa","country":"Taiwan"}
+{"payment_id":16641,"customer_id":587,"amount":7.99,"payment_date":"2021-05-10 03:15:32.996577 +00:00","city":"Celaya","district":"Guanajuato","country":"Mexico"}
+{"payment_id":17123,"customer_id":237,"amount":7.99,"payment_date":"2021-05-10 03:17:43.996577 +00:00","city":"Naju","district":"Chollanam","country":"South Korea"}
+{"payment_id":17179,"customer_id":254,"amount":5.99,"payment_date":"2021-05-10 03:29:44.996577 +00:00","city":"Poos de Caldas","district":"Minas Gerais","country":"Brazil"}
+{"payment_id":16593,"customer_id":556,"amount":3.99,"payment_date":"2021-05-10 03:58:15.996577 +00:00","city":"Southport","district":"England","country":"United Kingdom"}
+{"payment_id":16932,"customer_id":125,"amount":6.99,"payment_date":"2021-05-10 03:58:29.996577 +00:00","city":"Boksburg","district":"Gauteng","country":"South Africa"}
+{"payment_id":16421,"customer_id":468,"amount":7.99,"payment_date":"2021-05-10 04:01:18.996577 +00:00","city":"Bijapur","district":"Karnataka","country":"India"}
+{"payment_id":16518,"customer_id":515,"amount":11.99,"payment_date":"2021-05-10 04:11:03.996577 +00:00","city":"Coquimbo","district":"Coquimbo","country":"Chile"}
+{"payment_id":17140,"customer_id":243,"amount":7.99,"payment_date":"2021-05-10 04:15:38.996577 +00:00","city":"San Miguel de Tucumn","district":"Tucumn","country":"Argentina"}
+{"payment_id":17154,"customer_id":247,"amount":7.99,"payment_date":"2021-05-10 04:30:07.996577 +00:00","city":"Coacalco de Berriozbal","district":"Mxico","country":"Mexico"}
+{"payment_id":16546,"customer_id":533,"amount":4.99,"payment_date":"2021-05-10 04:39:54.996577 +00:00","city":"Binzhou","district":"Shandong","country":"China"}
+{"payment_id":16321,"customer_id":412,"amount":3.99,"payment_date":"2021-05-10 04:42:32.996577 +00:00","city":"Hoshiarpur","district":"Punjab","country":"India"}
+{"payment_id":16365,"customer_id":437,"amount":5.99,"payment_date":"2021-05-10 04:49:03.996577 +00:00","city":"La Romana","district":"La Romana","country":"Dominican Republic"}
+{"payment_id":16056,"customer_id":270,"amount":4.99,"payment_date":"2021-05-10 05:10:14.996577 +00:00","city":"Kalisz","district":"Wielkopolskie","country":"Poland"}
+{"payment_id":16743,"customer_id":29,"amount":4.99,"payment_date":"2021-05-10 05:20:59.996577 +00:00","city":"Shimonoseki","district":"Yamaguchi","country":"Japan"}
+{"payment_id":16606,"customer_id":564,"amount":8.99,"payment_date":"2021-05-10 05:21:02.996577 +00:00","city":"Xintai","district":"Shandong","country":"China"}
+{"payment_id":17036,"customer_id":184,"amount":5.99,"payment_date":"2021-05-10 05:24:24.996577 +00:00","city":"s-Hertogenbosch","district":"Noord-Brabant","country":"Netherlands"}
+{"payment_id":16571,"customer_id":546,"amount":8.99,"payment_date":"2021-05-10 05:27:47.996577 +00:00","city":"Sanya","district":"Hainan","country":"China"}
+{"payment_id":16792,"customer_id":54,"amount":7.99,"payment_date":"2021-05-10 05:32:15.996577 +00:00","city":"Iwakuni","district":"Yamaguchi","country":"Japan"}
+{"payment_id":16827,"customer_id":71,"amount":5.99,"payment_date":"2021-05-10 05:40:24.996577 +00:00","city":"Baybay","district":"Eastern Visayas","country":"Philippines"}
+{"payment_id":16164,"customer_id":321,"amount":7.99,"payment_date":"2021-05-10 05:40:47.996577 +00:00","city":"Birgunj","district":"Central","country":"Nepal"}
+{"payment_id":16380,"customer_id":444,"amount":11.99,"payment_date":"2021-05-10 05:42:11.996577 +00:00","city":"Tartu","district":"Tartumaa","country":"Estonia"}
+{"payment_id":16722,"customer_id":20,"amount":5.99,"payment_date":"2021-05-10 05:56:02.996577 +00:00","city":"Mardan","district":"Nothwest Border Prov","country":"Pakistan"}
+{"payment_id":16895,"customer_id":109,"amount":8.99,"payment_date":"2021-05-10 05:56:23.996577 +00:00","city":"Klerksdorp","district":"North West","country":"South Africa"}
+{"payment_id":16535,"customer_id":528,"amount":3.99,"payment_date":"2021-05-10 05:59:03.996577 +00:00","city":"Benguela","district":"Benguela","country":"Angola"}
+{"payment_id":16909,"customer_id":114,"amount":7.99,"payment_date":"2021-05-10 06:28:03.996577 +00:00","city":"Duisburg","district":"Nordrhein-Westfalen","country":"Germany"}
+{"payment_id":16197,"customer_id":345,"amount":3.99,"payment_date":"2021-05-10 06:30:20.996577 +00:00","city":"San Lorenzo","district":"Central","country":"Paraguay"}
+{"payment_id":16768,"customer_id":47,"amount":7.99,"payment_date":"2021-05-10 06:33:04.996577 +00:00","city":"Juazeiro do Norte","district":"Cear","country":"Brazil"}
+{"payment_id":16066,"customer_id":274,"amount":7.99,"payment_date":"2021-05-10 06:38:48.996577 +00:00","city":"Karnal","district":"Haryana","country":"India"}
+{"payment_id":16259,"customer_id":379,"amount":7.99,"payment_date":"2021-05-10 06:42:27.996577 +00:00","city":"Bhavnagar","district":"Gujarat","country":"India"}
+{"payment_id":16286,"customer_id":391,"amount":5.99,"payment_date":"2021-05-10 06:42:41.996577 +00:00","city":"Izumisano","district":"Osaka","country":"Japan"}
+{"payment_id":17012,"customer_id":170,"amount":5.99,"payment_date":"2021-05-10 07:01:36.996577 +00:00","city":"Udaipur","district":"Rajasthan","country":"India"}
+{"payment_id":16807,"customer_id":59,"amount":7.99,"payment_date":"2021-05-10 07:03:07.996577 +00:00","city":"Mysore","district":"Karnataka","country":"India"}
+{"payment_id":16292,"customer_id":394,"amount":6.99,"payment_date":"2021-05-10 07:12:34.996577 +00:00","city":"Gijn","district":"Asturia","country":"Spain"}
+{"payment_id":16874,"customer_id":98,"amount":6.99,"payment_date":"2021-05-10 07:17:15.996577 +00:00","city":"al-Ayn","district":"Abu Dhabi","country":"United Arab Emirates"}
+{"payment_id":17060,"customer_id":197,"amount":3.99,"payment_date":"2021-05-10 07:31:13.996577 +00:00","city":"Changzhou","district":"Jiangsu","country":"China"}
+{"payment_id":16865,"customer_id":91,"amount":8.99,"payment_date":"2021-05-10 07:46:09.996577 +00:00","city":"Bandar Seri Begawan","district":"Brunei and Muara","country":"Brunei"}
+{"payment_id":16924,"customer_id":121,"amount":7.99,"payment_date":"2021-05-10 07:52:52.996577 +00:00","city":"Etawah","district":"Uttar Pradesh","country":"India"}
+{"payment_id":16136,"customer_id":309,"amount":9.99,"payment_date":"2021-05-10 07:55:35.996577 +00:00","city":"Brescia","district":"Lombardia","country":"Italy"}
+{"payment_id":16462,"customer_id":489,"amount":7.99,"payment_date":"2021-05-10 08:10:11.996577 +00:00","city":"Okayama","district":"Okayama","country":"Japan"}
+{"payment_id":16563,"customer_id":542,"amount":7.99,"payment_date":"2021-05-10 08:35:15.996577 +00:00","city":"Pangkal Pinang","district":"Sumatera Selatan","country":"Indonesia"}
+{"payment_id":16961,"customer_id":143,"amount":5.99,"payment_date":"2021-05-10 08:42:35.996577 +00:00","city":"Kilis","district":"Kilis","country":"Turkey"}
+{"payment_id":16850,"customer_id":83,"amount":3.99,"payment_date":"2021-05-10 08:43:04.996577 +00:00","city":"Springs","district":"Gauteng","country":"South Africa"}
+{"payment_id":16407,"customer_id":460,"amount":7.99,"payment_date":"2021-05-10 08:43:49.996577 +00:00","city":"Florencia","district":"Caquet","country":"Colombia"}
+{"payment_id":16160,"customer_id":318,"amount":12.99,"payment_date":"2021-05-10 08:46:53.996577 +00:00","city":"Bydgoszcz","district":"Kujawsko-Pomorskie","country":"Poland"}
+{"payment_id":16419,"customer_id":467,"amount":7.99,"payment_date":"2021-05-10 08:56:16.996577 +00:00","city":"Cuauhtmoc","district":"Chihuahua","country":"Mexico"}
+{"payment_id":17096,"customer_id":221,"amount":7.99,"payment_date":"2021-05-10 09:12:30.996577 +00:00","city":"Syrakusa","district":"Sisilia","country":"Italy"}
+{"payment_id":16118,"customer_id":301,"amount":8.99,"payment_date":"2021-05-10 09:20:12.996577 +00:00","city":"Kaliningrad","district":"Kaliningrad","country":"Russian Federation"}
+{"payment_id":16618,"customer_id":571,"amount":12.99,"payment_date":"2021-05-10 09:22:54.996577 +00:00","city":"Plock","district":"Mazowieckie","country":"Poland"}
+{"payment_id":16144,"customer_id":312,"amount":7.99,"payment_date":"2021-05-10 09:47:46.996577 +00:00","city":"Tabuk","district":"Tabuk","country":"Saudi Arabia"}
+{"payment_id":16804,"customer_id":58,"amount":3.99,"payment_date":"2021-05-10 10:00:16.996577 +00:00","city":"Kuching","district":"Sarawak","country":"Malaysia"}
+{"payment_id":16229,"customer_id":365,"amount":7.99,"payment_date":"2021-05-10 10:00:25.996577 +00:00","city":"Okinawa","district":"Okinawa","country":"Japan"}
+{"payment_id":17182,"customer_id":256,"amount":3.99,"payment_date":"2021-05-10 10:06:31.996577 +00:00","city":"Monywa","district":"Sagaing","country":"Myanmar"}
+{"payment_id":16542,"customer_id":531,"amount":7.99,"payment_date":"2021-05-10 10:12:10.996577 +00:00","city":"Kuwana","district":"Mie","country":"Japan"}
+{"payment_id":16610,"customer_id":566,"amount":8.99,"payment_date":"2021-05-10 10:15:46.996577 +00:00","city":"Tokat","district":"Tokat","country":"Turkey"}
+{"payment_id":16920,"customer_id":119,"amount":8.99,"payment_date":"2021-05-10 10:19:35.996577 +00:00","city":"Shubra al-Khayma","district":"al-Qalyubiya","country":"Egypt"}
+{"payment_id":16385,"customer_id":446,"amount":3.99,"payment_date":"2021-05-10 10:22:15.996577 +00:00","city":"Uluberia","district":"West Bengali","country":"India"}
+{"payment_id":16554,"customer_id":536,"amount":3.99,"payment_date":"2021-05-10 10:43:39.996577 +00:00","city":"Tonghae","district":"Kang-won","country":"South Korea"}
+{"payment_id":17081,"customer_id":211,"amount":7.99,"payment_date":"2021-05-10 10:58:48.996577 +00:00","city":"Fuyu","district":"Jilin","country":"China"}
+{"payment_id":16774,"customer_id":49,"amount":6.99,"payment_date":"2021-05-10 10:58:52.996577 +00:00","city":"Jedda","district":"Mekka","country":"Saudi Arabia"}
+{"payment_id":16881,"customer_id":103,"amount":10.99,"payment_date":"2021-05-10 11:08:49.996577 +00:00","city":"Ilorin","district":"Kwara & Kogi","country":"Nigeria"}
+{"payment_id":17144,"customer_id":245,"amount":3.99,"payment_date":"2021-05-10 11:17:27.996577 +00:00","city":"Uijongbu","district":"Kyonggi","country":"South Korea"}
+{"payment_id":17083,"customer_id":214,"amount":4.99,"payment_date":"2021-05-10 11:33:34.996577 +00:00","city":"Sunnyvale","district":"California","country":"United States"}
+{"payment_id":16565,"customer_id":543,"amount":9.99,"payment_date":"2021-05-10 11:34:31.996577 +00:00","city":"Beni-Mellal","district":"Tadla-Azilal","country":"Morocco"}
+{"payment_id":17187,"customer_id":257,"amount":5.99,"payment_date":"2021-05-10 12:09:06.996577 +00:00","city":"Beira","district":"Sofala","country":"Mozambique"}
+{"payment_id":16987,"customer_id":158,"amount":7.99,"payment_date":"2021-05-10 12:15:25.996577 +00:00","city":"Greensboro","district":"North Carolina","country":"United States"}
+{"payment_id":17132,"customer_id":240,"amount":5.99,"payment_date":"2021-05-10 12:25:33.996577 +00:00","city":"Iwaki","district":"Fukushima","country":"Japan"}
+{"payment_id":16878,"customer_id":102,"amount":7.99,"payment_date":"2021-05-10 12:29:31.996577 +00:00","city":"Ashdod","district":"Ha Darom","country":"Israel"}
+{"payment_id":16569,"customer_id":545,"amount":3.99,"payment_date":"2021-05-10 12:36:24.996577 +00:00","city":"Konotop","district":"Sumy","country":"Ukraine"}
+{"payment_id":16433,"customer_id":472,"amount":5.99,"payment_date":"2021-05-10 12:47:35.996577 +00:00","city":"Nam Dinh","district":"Nam Ha","country":"Vietnam"}
+{"payment_id":16559,"customer_id":539,"amount":7.99,"payment_date":"2021-05-10 12:58:50.996577 +00:00","city":"Valencia","district":"Carabobo","country":"Venezuela"}
