@@ -15,6 +15,7 @@ from pyspark.sql.types import StructField, StructType, IntegerType, \
 BOOTSTRAP_SERVERS = "<your_bootstrap_server>:9098"
 S3_BUCKET = "<your_s3_bucket>"
 WRITE_TOPIC = "topicC"
+MESSAGE_DELAY = 0.5
 
 
 def main():
@@ -85,7 +86,7 @@ def write_to_kafka(spark, df_sales):
 
         df_message.show(1)
 
-        time.sleep(0.5)  # 2000 messages * 0.5 seconds  / 60 = ~17 minute runtime
+        time.sleep(MESSAGE_DELAY)  # 2000 messages * 0.5 seconds  / 60 = ~17 minute runtime
 
 
 if __name__ == "__main__":
