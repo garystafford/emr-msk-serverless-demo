@@ -111,6 +111,16 @@ aws emr-serverless start-job-run \
     }'
 ```
 
+## Clean-up
+
+Don't forget to clean up your resources when your done with the demonstration.
+
+```shell
+aws kafka delete-cluster --cluster-arn <your_msk_serverless_cluster_arn>
+aws emr-serverless delete-application --application-id <your_application_id>
+aws ec2 terminate-instances --instance-ids <your_ec2_instance_id>
+```
+
 ---
 The contents of this repository represent my viewpoints and not of my past or current employers, including Amazon Web
 Services (AWS). All third-party libraries, modules, plugins, and SDKs are the property of their respective owners.

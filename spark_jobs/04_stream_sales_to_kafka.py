@@ -15,6 +15,7 @@ from pyspark.sql.types import StructField, StructType, IntegerType, \
 BOOTSTRAP_SERVERS = "<your_bootstrap_server>:9098"
 S3_BUCKET = "<your_s3_bucket>"
 WRITE_TOPIC = "topicC"
+SAMPLE_DATA_FILE = "sales_incremental_large.csv"  # sales_incremental_small.csv
 MESSAGE_DELAY = 0.5
 
 
@@ -44,7 +45,7 @@ def main():
 
 def read_from_csv(spark, schema):
     df_sales = spark.read \
-        .csv(path=f"s3a://{S3_BUCKET}/sample_data/sales_incremental_large.csv",
+        .csv(path=f"s3a://{S3_BUCKET}/sample_data/{SAMPLE_DATA_FILE}",
              schema=schema, header=True, sep="|")
 
     return df_sales
