@@ -1,4 +1,4 @@
-# Amazon EMR Serverless and Amazon MSK Serverless Demo
+# Amazon EMR Serverless/MSK Serverless Demo
 
 Source code for the upcoming blog post, "Serverless Analytics on AWS: Getting Started with Amazon EMR Serverless and MSK Serverless". Using the newly released Amazon EMR Serverless and Amazon MSK Serverless for batch and streaming analytics with Apache Spark and Apache Kafka.
 
