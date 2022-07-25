@@ -15,7 +15,7 @@ from pyspark.sql.types import StructField, StructType, IntegerType, \
 BOOTSTRAP_SERVERS = "<your_bootstrap_server>:9098"
 S3_BUCKET = "<your_s3_bucket>"
 WRITE_TOPIC = "topicC"
-SAMPLE_DATA_FILE = "sales_incremental_large.csv"  # sales_incremental_small.csv
+SAMPLE_DATA_FILE = "sales_incremental_large.csv"  # "sales_incremental_small.csv"
 MESSAGE_DELAY = 0.5
 
 
