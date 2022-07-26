@@ -1,7 +1,8 @@
 # Amazon EMR Serverless/MSK Serverless Demo
 
-Source code for the upcoming blog post, "Serverless Analytics on AWS: Getting Started with Amazon EMR Serverless and MSK
-Serverless". Using the newly released Amazon EMR Serverless and Amazon MSK Serverless for batch and streaming analytics
+Source code for the blog post, [Serverless Analytics on AWS: Getting Started with Amazon EMR Serverless and MSK
+Serverless](https://garystafford.medium.com/serverless-analytics-on-aws-getting-started-with-amazon-emr-serverless-and-amazon-msk-serverless-67155fa0f5e0)
+. Using the newly released Amazon EMR Serverless and Amazon MSK Serverless for batch and streaming analytics
 with Apache Spark and Apache Kafka.
 
 ## Spark Jobs
@@ -111,14 +112,19 @@ aws emr-serverless start-job-run \
     }'
 ```
 
-## Clean-up
+## Cleaning up
 
-Don't forget to clean up your resources when your done with the demonstration.
+Don't forget to clean up your resources when you're done with the demonstration.
 
 ```shell
+# delete applicatiom, cluster, and ec2 client
 aws kafka delete-cluster --cluster-arn <your_msk_serverless_cluster_arn>
 aws emr-serverless delete-application --application-id <your_application_id>
 aws ec2 terminate-instances --instance-ids <your_ec2_instance_id>
+
+# all objects (including all object versions and delete markers) in the bucket 
+# must be deleted before the bucket itself can be deleted.
+aws s3api delete-bucket --bucket <your_s3_bucket>
 ```
 
 ---
