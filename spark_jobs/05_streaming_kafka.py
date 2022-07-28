@@ -1,10 +1,10 @@
 # Purpose: Amazon EMR Serverless and Amazon MSK Serverless Demo
 #          Reads stream of messages from Kafka topicC and
-#          writes stream of aggregations over sliding event-time window to console (top 10 only)
+#          writes stream of aggregations over sliding event-time window to console (stdout)
 # References: https://spark.apache.org/docs/latest/structured-streaming-programming-guide.html
 # Author:  Gary A. Stafford
 # Date: 2022-07-27
-# Note: Requires "--bootstrap_servers" arguments
+# Note: Requires --bootstrap_servers argument
 
 import argparse
 

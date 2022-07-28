@@ -3,7 +3,7 @@
 #          to simulate real-time streaming sales data
 # Author:  Gary A. Stafford
 # Date: 2022-07-27
-# Note: Requires "--bootstrap_servers, --s3_bucket" arguments
+# Note: Requires --bootstrap_servers and --s3_bucket arguments
 
 import argparse
 import time

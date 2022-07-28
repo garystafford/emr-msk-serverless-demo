@@ -1,8 +1,8 @@
 # Purpose: Amazon EMR Serverless and Amazon MSK Serverless Demo
-#          Reads messages from Kafka topicA and write aggregated messages to the console
+#          Reads messages from Kafka topicA and write aggregated messages to the console (stdout)
 # Author:  Gary A. Stafford
 # Date: 2022-07-27
-# Note: Requires "--bootstrap_servers" argument
+# Note: Requires --bootstrap_servers argument
 
 import argparse
 

@@ -2,7 +2,7 @@
 #          Reads messages from Kafka topicA and write aggregated messages to CSV file in Amazon S3
 # Author:  Gary A. Stafford
 # Date: 2022-07-27
-# Note: Requires "--bootstrap_servers, --s3_bucket" arguments
+# Note: Requires --bootstrap_servers and --s3_bucket arguments
 
 import argparse
 
