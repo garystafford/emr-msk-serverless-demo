@@ -5,7 +5,7 @@ Serverless](https://garystafford.medium.com/serverless-analytics-on-aws-getting-
 . Using the newly released Amazon EMR Serverless and Amazon MSK Serverless for batch and streaming analytics
 with Apache Spark and Apache Kafka.
 
-## Spark Jobs
+## PySpark Applications
 
 * `01_example_console.py`: Batch read from Kafka topic, aggregation to console
 * `02_example_csv_s3.py`: Batch read from Kafka topic, aggregation to CSV in S3
@@ -13,7 +13,7 @@ with Apache Spark and Apache Kafka.
 * `04_stream_sales_to_kafka.py`: Streaming writes to Kafka topic
 * `05_streaming_kafka.py`: Streaming reads from Kafka topic, aggregations over sliding event-time window to console
 
-## Spark Job JAR Dependencies
+## PySpark Application Dependencies
 
 Upload to S3 in advance.
 
@@ -72,7 +72,7 @@ bin/kafka-console-consumer.sh \
     --consumer.config config/client.properties
 ```
 
-## Submit Spark Job to Amazon EMR Serverless using AWS CLI
+## Submit PySpark Job to Amazon EMR Serverless using AWS CLI
 
 Example commands.
 
