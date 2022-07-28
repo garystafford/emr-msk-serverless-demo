@@ -1,7 +1,10 @@
 # Purpose: Amazon EMR Serverless and Amazon MSK Serverless Demo
 #          Reads messages from Kafka topicA and write aggregated messages to the console
 # Author:  Gary A. Stafford
-# Date: 2022-07-24
+# Date: 2022-07-27
+# Note: Requires "--bootstrap_servers" argument
+
+import argparse
 
 import pyspark.sql.functions as F
 from pyspark.sql import SparkSession
@@ -9,12 +12,10 @@ from pyspark.sql.types import StructField, StructType, IntegerType, \
     StringType, FloatType, TimestampType
 from pyspark.sql.window import Window
 
-# *** CHANGE ME ***
-BOOTSTRAP_SERVERS = "<your_bootstrap_server>:9098"
-READ_TOPIC = "topicA"
-
 
 def main():
+    args = parse_args()
+
     spark = SparkSession \
         .builder \
         .appName("01-example-console") \
@@ -22,17 +23,17 @@ def main():
 
     spark.sparkContext.setLogLevel("INFO")
 
-    df_sales = read_from_kafka(spark)
+    df_sales = read_from_kafka(spark, args)
 
     summarize_sales(df_sales)
 
 
-def read_from_kafka(spark):
+def read_from_kafka(spark, args):
     options_read = {
         "kafka.bootstrap.servers":
-            BOOTSTRAP_SERVERS,
+            args.bootstrap_servers,
         "subscribe":
-            READ_TOPIC,
+            args.read_topic,
         "startingOffsets":
             "earliest",
         "endingOffsets":
@@ -88,6 +89,17 @@ def summarize_sales(df_sales):
         .option("numRows", 25) \
         .option("truncate", False) \
         .save()
+
+
+def parse_args():
+    """Parse argument values from command-line"""
+
+    parser = argparse.ArgumentParser(description="Arguments required for script.")
+    parser.add_argument("--bootstrap_servers", required=True, help="Kafka bootstrap servers")
+    parser.add_argument("--read_topic", default="topicA", required=False, help="Kafka topic to read from")
+
+    args = parser.parse_args()
+    return args
 
 
 if __name__ == "__main__":

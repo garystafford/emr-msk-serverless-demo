@@ -2,8 +2,10 @@
 #          Write messages from a CSV file to Kafka topicC
 #          to simulate real-time streaming sales data
 # Author:  Gary A. Stafford
-# Date: 2022-07-24
+# Date: 2022-07-27
+# Note: Requires "--bootstrap_servers, --s3_bucket" arguments
 
+import argparse
 import time
 
 import pyspark.sql.functions as F
@@ -11,15 +13,10 @@ from pyspark.sql import SparkSession
 from pyspark.sql.types import StructField, StructType, IntegerType, \
     StringType, FloatType
 
-# *** CHANGE ME ***
-BOOTSTRAP_SERVERS = "<your_bootstrap_server>:9098"
-S3_BUCKET = "<your_s3_bucket>"
-WRITE_TOPIC = "topicC"
-SAMPLE_DATA_FILE = "sales_incremental_large.csv"  # "sales_incremental_small.csv"
-MESSAGE_DELAY = 0.5
-
 
 def main():
+    args = parse_args()
+
     spark = SparkSession \
         .builder \
         .appName("04-stream-sales-to-kafka") \
@@ -37,26 +34,26 @@ def main():
         StructField("country", StringType(), False),
     ])
 
-    df_sales = read_from_csv(spark, schema)
+    df_sales = read_from_csv(spark, schema, args)
     df_sales.cache()
 
-    write_to_kafka(spark, df_sales)
+    write_to_kafka(spark, df_sales, args)
 
 
-def read_from_csv(spark, schema):
+def read_from_csv(spark, schema, args):
     df_sales = spark.read \
-        .csv(path=f"s3a://{S3_BUCKET}/sample_data/{SAMPLE_DATA_FILE}",
+        .csv(path=f"s3a://{args.s3_bucket}/sample_data/{args.sample_data_file}",
              schema=schema, header=True, sep="|")
 
     return df_sales
 
 
-def write_to_kafka(spark, df_sales):
+def write_to_kafka(spark, df_sales, args):
     options_write = {
         "kafka.bootstrap.servers":
-            BOOTSTRAP_SERVERS,
+            args.bootstrap_servers,
         "topic":
-            WRITE_TOPIC,
+            args.write_topic,
         "kafka.security.protocol":
             "SASL_SSL",
         "kafka.sasl.mechanism":
@@ -87,7 +84,21 @@ def write_to_kafka(spark, df_sales):
 
         df_message.show(1)
 
-        time.sleep(MESSAGE_DELAY)
+        time.sleep(args.message_delay)
+
+
+def parse_args():
+    """Parse argument values from command-line"""
+
+    parser = argparse.ArgumentParser(description="Arguments required for script.")
+    parser.add_argument("--bootstrap_servers", required=True, help="Kafka bootstrap servers")
+    parser.add_argument("--s3_bucket", required=True, help="Amazon S3 bucket")
+    parser.add_argument("--write_topic", default="topicC", required=False, help="Kafka topic to write to")
+    parser.add_argument("--sample_data_file", default="sales_incremental_large.csv", required=False, help="data file")
+    parser.add_argument("--message_delay", default=0.5, required=False, help="message publishing delay")
+
+    args = parser.parse_args()
+    return args
 
 
 if __name__ == "__main__":

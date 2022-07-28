@@ -1,21 +1,22 @@
 # Purpose: Amazon EMR Serverless and Amazon MSK Serverless Demo
 #          Reads stream of messages from Kafka topicC and
 #          writes stream of aggregations over sliding event-time window to console (top 10 only)
-# Author:  Gary A. Stafford
-# Date: 2022-07-24
 # References: https://spark.apache.org/docs/latest/structured-streaming-programming-guide.html
+# Author:  Gary A. Stafford
+# Date: 2022-07-27
+# Note: Requires "--bootstrap_servers" arguments
+
+import argparse
 
 import pyspark.sql.functions as F
 from pyspark.sql import SparkSession
 from pyspark.sql.types import StructField, StructType, IntegerType, \
     StringType, FloatType, TimestampType
 
-# *** CHANGE ME ***
-BOOTSTRAP_SERVERS = "<your_bootstrap_server>:9098"
-READ_TOPIC = "topicC"
-
 
 def main():
+    args = parse_args()
+
     spark = SparkSession \
         .builder \
         .appName("05-streaming-kafka") \
@@ -23,17 +24,17 @@ def main():
 
     spark.sparkContext.setLogLevel("INFO")
 
-    df_sales = read_from_kafka(spark)
+    df_sales = read_from_kafka(spark, args)
 
     summarize_sales(df_sales)
 
 
-def read_from_kafka(spark):
+def read_from_kafka(spark, args):
     options_read = {
         "kafka.bootstrap.servers":
-            BOOTSTRAP_SERVERS,
+            args.bootstrap_servers,
         "subscribe":
-            READ_TOPIC,
+            args.read_topic,
         "startingOffsets":
             "earliest",
         "kafka.security.protocol":
@@ -91,6 +92,17 @@ def summarize_sales(df_sales):
         .start()
 
     ds_sales.awaitTermination()
+
+
+def parse_args():
+    """Parse argument values from command-line"""
+
+    parser = argparse.ArgumentParser(description="Arguments required for script.")
+    parser.add_argument("--bootstrap_servers", required=True, help="Kafka bootstrap servers")
+    parser.add_argument("--read_topic", default="topicC", required=False, help="Kafka topic to read from")
+
+    args = parser.parse_args()
+    return args
 
 
 if __name__ == "__main__":

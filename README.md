@@ -84,6 +84,38 @@ aws emr-serverless start-job-run \
     --job-driver '{
         "sparkSubmit": {
             "entryPoint": "s3://<your_s3_bucket>/scripts/01_example_console.py",
+            "entryPointArguments": [
+                "--bootstrap_servers=<your_bootstrap_server>"
+            ],
+            "sparkSubmitParameters": "--conf spark.jars=s3://<your_s3_bucket>/jars/*.jar"
+        }
+    }'
+
+aws emr-serverless start-job-run \
+    --application-id <your_application_id> \
+    --execution-role-arn <your_execution_role_arn> \
+    --name 02-example-csv-s3 \
+    --job-driver '{
+        "sparkSubmit": {
+            "entryPoint": "s3://<your_s3_bucket>/scripts/02_example_csv_s3.py",
+            "entryPointArguments": [
+                "--bootstrap_servers=<your_bootstrap_server>", 
+                "--s3_bucket=<your_s3_bucket>"
+            ],
+            "sparkSubmitParameters": "--conf spark.jars=s3://<your_s3_bucket>/jars/*.jar"
+        }
+    }'
+
+aws emr-serverless start-job-run \
+    --application-id <your_application_id> \
+    --execution-role-arn <your_execution_role_arn> \
+    --name 03-example-kafka \
+    --job-driver '{
+        "sparkSubmit": {
+            "entryPoint": "s3://<your_s3_bucket>/scripts/03_example_kafka.py",
+            "entryPointArguments": [
+                "--bootstrap_servers=<your_bootstrap_server>"
+            ],
             "sparkSubmitParameters": "--conf spark.jars=s3://<your_s3_bucket>/jars/*.jar"
         }
     }'
@@ -96,6 +128,10 @@ aws emr-serverless start-job-run \
     --job-driver '{
         "sparkSubmit": {
             "entryPoint": "s3://<your_s3_bucket>/scripts/04_stream_sales_to_kafka.py",
+            "entryPointArguments": [
+                "--bootstrap_servers=<your_bootstrap_server>", 
+                "--s3_bucket=<your_s3_bucket>"
+            ],
             "sparkSubmitParameters": "--conf spark.jars=s3://<your_s3_bucket>/jars/*.jar"
         }
     }'
@@ -107,6 +143,9 @@ aws emr-serverless start-job-run \
     --job-driver '{
         "sparkSubmit": {
             "entryPoint": "s3://<your_s3_bucket>/scripts/05_streaming_kafka.py",
+            "entryPointArguments": [
+                "--bootstrap_servers=<your_bootstrap_server>"
+            ],
             "sparkSubmitParameters": "--conf spark.jars=s3://<your_s3_bucket>/jars/*.jar"
         }
     }'
