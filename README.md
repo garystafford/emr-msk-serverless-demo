@@ -23,8 +23,6 @@ wget https://github.com/aws/aws-msk-iam-auth/releases/download/v1.1.4/aws-msk-ia
 wget https://repo1.maven.org/maven2/org/apache/commons/commons-pool2/2.11.1/commons-pool2-2.11.1.jar
 wget https://repo1.maven.org/maven2/org/apache/kafka/kafka-clients/2.8.1/kafka-clients-2.8.1.jar
 wget https://repo1.maven.org/maven2/org/apache/spark/spark-sql-kafka-0-10_2.12/3.2.1/spark-sql-kafka-0-10_2.12-3.2.1.jar
-wget https://repo1.maven.org/maven2/org/apache/spark/spark-streaming_2.12/3.2.1/spark-streaming_2.12-3.2.1.jar
-wget https://repo1.maven.org/maven2/org/apache/spark/spark-tags_2.12/3.2.1/spark-tags_2.12-3.2.1.jar
 wget https://repo1.maven.org/maven2/org/apache/spark/spark-token-provider-kafka-0-10_2.12/3.2.1/spark-token-provider-kafka-0-10_2.12-3.2.1.jar
 
 # optional dependencies for avro-format messages
